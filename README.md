@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muzammil Mirza aka maverik90
-- 👀 I’m a Full Stack Developer working in HTML5, CSS3, JavaScript (ES6), PHP, Wordpress, Shopify, Bigcommerce, Codeigniter, Nuxt, React, Webflow, CRO, Flutter etc
+- 👀 I’m a Full Stack Developer working in HTML5, CSS3, JavaScript (ES6), PHP, ReactJS, VueJS, Wordpress, Shopify, Bigcommerce, Codeigniter, Webflow, CRO, Flutter etc
 - 🌱 I’m currently working as a Dev Lead in award winning CRO agency Spiralyze LLC.
 - 💞️ I’m looking to collaborate on Wordpress, Shopify, Bigcommerce, Codeigniter and Vuejs/Reactjs Projects.
 - 📫 Hire me on freelancer.com https://www.freelancer.com/u/maverik902
